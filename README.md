@@ -11,7 +11,7 @@
     <img src="github/botexe.gif" style="margin: auto;" alt="drawing" width="500"/>
   </kbd>
   <kbd>
-    <img src="github/terminalBOT.gif" style="margin: auto;" alt="drawing" width="320"/>
+    <img src="github/terminalBOT.gif" style="margin: auto;" alt="drawing" width="310"/>
   </kbd>
 </p>
 

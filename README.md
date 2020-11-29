@@ -8,10 +8,10 @@
 
 <p>   
   <kbd>
-    <img src="github/botexe.gif" style="margin: auto;" alt="drawing" width="450"/>
+    <img src="github/botexe.gif" style="margin: auto;" alt="drawing" width="500"/>
   </kbd>
   <kbd>
-    <img src="github/terminalBOT.gif" style="margin: auto;" alt="drawing" width="350"/>
+    <img src="github/terminalBOT.gif" style="margin: auto;" alt="drawing" width="300"/>
   </kbd>
 </p>
 

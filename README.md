@@ -8,7 +8,7 @@
 
 <p>   
   <kbd>
-    <img src="github/botexe.gif" style="margin: auto;" alt="drawing" width="500"/>
+    <img src="github/botexe.gif" style="margin: auto;" alt="drawing" width="400"/>
   </kbd>
   <kbd>
     <img src="github/terminalBOT.gif" style="margin: auto;" alt="drawing" width="350"/>

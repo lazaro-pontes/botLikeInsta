@@ -1,5 +1,7 @@
 # botLikeInsta
 >:robot: um robô que acessa o instagram e da like nas fotos
+![exampleTerminal](github/botexe.gif)
+![exampleTerminal](github/terminalBOT.gif)
 
 ## como usar
 * clone o repositorio:

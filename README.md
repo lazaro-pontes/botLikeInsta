@@ -22,6 +22,7 @@
 `cd botLikeInsta/`
 * instale as dependencias do Node:
 `npm install`
+* crie um arquivo `.env` para armazenar as variaveis de ambiente `EMAIL` e `PASSWORD`
 * execute o bot:
 `npm run start`
 ##  História

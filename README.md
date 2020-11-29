@@ -1,7 +1,14 @@
 # botLikeInsta
->:robot: um robô que acessa o instagram e da like nas fotos
-![exampleTerminal](github/botexe.gif)
-![exampleTerminal](github/terminalBOT.gif)
+## :robot: um robô que acessa o instagram e da like nas fotos
+
+<p>   
+  <kbd>
+    <img src="github/botexe.gif" style="margin: auto;" alt="drawing" width="500"/>
+  </kbd>
+  <kbd>
+    <img src="github/terminalBOT.gif" style="margin: auto;" alt="drawing" width="350"/>
+  </kbd>
+</p>
 
 ## como usar
 * clone o repositorio:

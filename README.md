@@ -1,4 +1,9 @@
 # botLikeInsta
+![LICENSE](https://img.shields.io/github/license/lazaro-pontes/botLikeInsta?style=plastic)
+![ISSUE](https://img.shields.io/github/issues/lazaro-pontes/botLikeInsta?style=plastic)
+![STARS](https://img.shields.io/github/stars/lazaro-pontes/botLikeInsta?style=plastic)
+![SIZE](https://img.shields.io/github/repo-size/lazaro-pontes/botLikeInsta?style=plastic)
+![SOCIAL](	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Flazaro-pontes%2FbotLikeInsta%2Fedit%2Fmaster%2F?style=plastic)
 ## :robot: um robô que acessa o instagram e da like nas fotos
 
 <p>   

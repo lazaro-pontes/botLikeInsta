@@ -1,0 +1,35 @@
+{
+  "name": "botlikeinsta",
+  "version": "1.0.0",
+  "description": "um bot que da likes no insta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazaro-pontes/botLikeInsta.git"
+  },
+  "keywords": [
+    "bot",
+    "robot",
+    "instagram",
+    "insta",
+    "like",
+    "photos"
+  ],
+  "author": "joão lazaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazaro-pontes/botLikeInsta/issues"
+  },
+  "homepage": "https://github.com/lazaro-pontes/botLikeInsta#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}

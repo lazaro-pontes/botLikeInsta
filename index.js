@@ -21,7 +21,7 @@ const run = async () => {
         await page.waitForSelector('[name="password"]', { timeout: 60000 });
         await page.type('[name="password"]', process.env.PASSWORD);
 
-        await page.click('[type="submit"]', { delay: 2500 });
+        await page.click('[type="submit"]', { delay: 2300 });
 
         console.log(`login concluido na conta: ${process.env.EMAIL}`)
     }
